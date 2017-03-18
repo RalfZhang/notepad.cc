@@ -1,6 +1,6 @@
 # A quick cover of notepad.cc
 
-## Demo
+## Website
 
 http://note.ralfz.com/
 
