@@ -2,7 +2,7 @@
 
 ## Demo
 
-http://notepad.1976f.com/
+http://note.ralfz.com/
 
 ## Features
 
@@ -17,13 +17,13 @@ http://notepad.1976f.com/
 
 ```shell
 
-; Install dependencies
+//Install dependencies
 npm install
 
-; Run
+//Run
 npm start
 
-; Or run in watch mode
-; npm run dev
+//Or run in watch mode
+// npm run dev
 
 ```
